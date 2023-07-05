@@ -37,7 +37,7 @@ function ResumeNew() {
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
-            &nbsp;Download Profile
+            &nbsp;Profile
           </Button>
         </Col>
         <Col style={{ justifyContent: "center", position: "relative" }}>
